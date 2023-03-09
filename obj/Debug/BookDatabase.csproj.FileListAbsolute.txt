@@ -1,0 +1,8 @@
+C:\Users\Tunca\source\repos\BookDatabase\bin\Debug\BookDatabase.exe.config
+C:\Users\Tunca\source\repos\BookDatabase\bin\Debug\BookDatabase.exe
+C:\Users\Tunca\source\repos\BookDatabase\bin\Debug\BookDatabase.pdb
+C:\Users\Tunca\source\repos\BookDatabase\obj\Debug\BookDatabase.csproj.AssemblyReference.cache
+C:\Users\Tunca\source\repos\BookDatabase\obj\Debug\BookDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tunca\source\repos\BookDatabase\obj\Debug\BookDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Tunca\source\repos\BookDatabase\obj\Debug\BookDatabase.exe
+C:\Users\Tunca\source\repos\BookDatabase\obj\Debug\BookDatabase.pdb
